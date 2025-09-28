@@ -1,0 +1,8 @@
+/vendor/
+.env
+.env.development
+.env.production
+.env.testing
+.phpunit.result.cache
+composer.phar
+storage/
