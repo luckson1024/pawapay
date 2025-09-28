@@ -1,5 +1,5 @@
 # PawaPay v2 Integration - AI Agent Instructions
-We are using Composer.phar
+We are using Composer.phar and testing the sdk, hould be writing proper test cases that exercise the actual SDK integration
 ## Project Architecture
 
 This is a PawaPay payment gateway integration for the Modesy e-commerce platform with these key components:
